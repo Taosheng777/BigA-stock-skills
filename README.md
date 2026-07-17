@@ -8,6 +8,22 @@ A curated set of four Claude Code skills for China A-share market research: free
 > 本仓库全部内容是**个人研究工具与方法论分享，不构成任何投资建议**（作者非持牌投顾）。行情与数据来自第三方公开接口，准确性、完整性、及时性均不作保证；据此操作，盈亏自负。所有 skill 内置铁律：**不下单、不碰交易、不编数据**，每份分析输出自带非投顾声明。
 > 参考了simonlin1212的a-stock-data，非常好用，强推！
 
+## 可以做到的
+1. **效果图**：
+这是结合了obsidian作为投资管理总工具台之后的效果
+<img width="2048" height="1602" alt="image" src="https://github.com/user-attachments/assets/89fc585d-1ca3-411d-bfa6-fa0fb41b6792" />
+<img width="2048" height="1602" alt="image" src="https://github.com/user-attachments/assets/bdcb04e4-d3fe-4018-b34d-038b6c12748c" />
+1. **使用技巧**：
+作为你的投资顾问，你的所有问题：
+今天我的股票怎么样了？
+我的基金怎么样了？
+```
+「600519 最近主力资金什么情况」        → a-stock-data（零依赖）
+「选几只放量突破的票」                  → stock-screener（需 Key）
+「用 stock-buddy 分析 600519」          → stock-buddy 常规档
+「盘后例行」                            → stock-daily（需 vault）
+```
+
 ## 包含的 4 个 skill
 
 | skill | 干什么 | 依赖 |
@@ -44,21 +60,7 @@ Clone 本仓库，把 `plugins/a-stock-skills/skills/` 下的四个目录复制�
    - Vault 目录结构示例与纪律文件模板：见 `stock-buddy/references/discipline.md` 和 `stock-daily/SKILL.md` 配置段；两处的路径与示例数值均为占位模板，装好后改成你自己的。
 
 
-## 可以做到的
-1. **效果图**：
-这是结合了obsidian作为投资管理总工具台之后的效果
-<img width="2048" height="1602" alt="image" src="https://github.com/user-attachments/assets/89fc585d-1ca3-411d-bfa6-fa0fb41b6792" />
-<img width="2048" height="1602" alt="image" src="https://github.com/user-attachments/assets/bdcb04e4-d3fe-4018-b34d-038b6c12748c" />
-2. **使用说明**：
-作为你的投资顾问，你的所有问题：
-今天我的股票怎么样了？
-我的基金怎么样了？
-```
-「600519 最近主力资金什么情况」        → a-stock-data（零依赖）
-「选几只放量突破的票」                  → stock-screener（需 Key）
-「用 stock-buddy 分析 600519」          → stock-buddy 常规档
-「盘后例行」                            → stock-daily（需 vault）
-```
+
 
 ## License
 
