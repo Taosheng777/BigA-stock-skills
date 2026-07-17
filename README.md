@@ -13,14 +13,21 @@ A curated set of four Claude Code skills for China A-share market research: free
 这是结合了obsidian作为投资管理总工具台之后的效果
 <img width="2048" height="1602" alt="image" src="https://github.com/user-attachments/assets/89fc585d-1ca3-411d-bfa6-fa0fb41b6792" />
 <img width="2048" height="1602" alt="image" src="https://github.com/user-attachments/assets/bdcb04e4-d3fe-4018-b34d-038b6c12748c" />
+
 1. **使用技巧**：
 作为你的投资顾问，你的所有问题：
+
 今天我的股票怎么样了？
+
 我的基金怎么样了？
+
 ```
 「600519 最近主力资金什么情况」        → a-stock-data（零依赖）
+
 「选几只放量突破的票」                  → stock-screener（需 Key）
+
 「用 stock-buddy 分析 600519」          → stock-buddy 常规档
+
 「盘后例行」                            → stock-daily（需 vault）
 ```
 
