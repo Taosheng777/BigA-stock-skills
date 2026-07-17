@@ -1,0 +1,12 @@
+{
+  "name": "a-stock-skills",
+  "description": "A 股投研四件套 skills：a-stock-data（免费数据源取数，零依赖开箱即用）、stock-screener（问财自然语言选股 + 透明打分）、stock-buddy（双档分析：常规档护栏体检 / 专家模式多 agent）、stock-daily（盘后例行六步编排）。研究工具，非投顾建议。",
+  "version": "0.1.0",
+  "author": {
+    "name": "Taosheng777",
+    "url": "https://github.com/Taosheng777"
+  },
+  "homepage": "https://github.com/Taosheng777/a-stock-skills",
+  "license": "MIT",
+  "keywords": ["a-stock", "china-stocks", "investing-research", "claude-code", "claude-skills"]
+}

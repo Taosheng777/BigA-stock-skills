@@ -1,0 +1,4 @@
+usage: cli.py [-h] --query QUERY [--page PAGE] [--limit LIMIT]
+              [--api-key API_KEY] [--call-type {normal,retry}]
+              [--timeout TIMEOUT]
+cli.py: error: the following arguments are required: --query/-q

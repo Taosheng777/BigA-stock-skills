@@ -1,0 +1,20 @@
+{
+  "name": "a-stock-skills",
+  "owner": {
+    "name": "Taosheng777",
+    "url": "https://github.com/Taosheng777"
+  },
+  "metadata": {
+    "description": "A 股个人投研 Claude Code skills 套件：数据获取 / 问财选股 / 双档分析 / 盘后例行",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "a-stock-skills",
+      "source": "./plugins/a-stock-skills",
+      "description": "A 股投研四件套：a-stock-data 免费源数据获取（零依赖）、stock-screener 问财选股、stock-buddy 双档分析、stock-daily 盘后例行。研究工具，非投顾建议。",
+      "version": "0.1.0",
+      "author": { "name": "Taosheng777" }
+    }
+  ]
+}

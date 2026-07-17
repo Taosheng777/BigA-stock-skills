@@ -1,0 +1,4 @@
+interface:
+  display_name: "盘后例行"
+  short_description: "刷新持仓与T+N台账，生成盘后复盘骨架和下一交易日清单"
+  default_prompt: "使用 $stock-daily 执行今天的盘后例行并报告阻塞项。"
