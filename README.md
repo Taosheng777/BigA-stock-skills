@@ -6,6 +6,7 @@ A curated set of four Claude Code skills for China A-share market research: free
 > ## ⚠️ 免责声明（先读这个）
 >
 > 本仓库全部内容是**个人研究工具与方法论分享，不构成任何投资建议**（作者非持牌投顾）。行情与数据来自第三方公开接口，准确性、完整性、及时性均不作保证；据此操作，盈亏自负。所有 skill 内置铁律：**不下单、不碰交易、不编数据**，每份分析输出自带非投顾声明。
+> 参考了simonlin1212的a-stock-data，非常好用，强推！
 
 ## 包含的 4 个 skill
 
