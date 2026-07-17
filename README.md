@@ -43,8 +43,16 @@ Clone 本仓库，把 `plugins/a-stock-skills/skills/` 下的四个目录复制�
 3. **需要自己的 Obsidian 投资 vault**：`stock-daily`（必需，且 vault 需 `git init`）、`stock-buddy` 常规档纪律护栏（可选）。
    - Vault 目录结构示例与纪律文件模板：见 `stock-buddy/references/discipline.md` 和 `stock-daily/SKILL.md` 配置段；两处的路径与示例数值均为占位模板，装好后改成你自己的。
 
-## 快速上手
 
+## 可以做到的
+1. **效果图**：
+这是结合了obsidian作为投资管理总工具台之后的效果
+<img width="2048" height="1602" alt="image" src="https://github.com/user-attachments/assets/89fc585d-1ca3-411d-bfa6-fa0fb41b6792" />
+<img width="2048" height="1602" alt="image" src="https://github.com/user-attachments/assets/bdcb04e4-d3fe-4018-b34d-038b6c12748c" />
+2. **使用说明**：
+作为你的投资顾问，你的所有问题：
+今天我的股票怎么样了？
+我的基金怎么样了？
 ```
 「600519 最近主力资金什么情况」        → a-stock-data（零依赖）
 「选几只放量突破的票」                  → stock-screener（需 Key）
