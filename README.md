@@ -1,5 +1,6 @@
 # a-stock-skills
 一套精选的四个Claude Code技能，用于中国A股市场研究：免费获取市场数据、自然语言选股、双层分析以及盘后例行操作。文档以中文为主。仅作为研究工具使用——不构成投资建议。
+
 A curated set of four Claude Code skills for China A-share market research: free-source market data fetching, natural-language stock screening, two-tier analysis, and a post-market routine. Docs are Chinese-first. Research tooling only — **not investment advice**.
 
 > ## ⚠️ 免责声明（先读这个）
