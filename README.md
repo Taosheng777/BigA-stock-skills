@@ -1,4 +1,12 @@
 # BigA-stock-skills
+
+> [!IMPORTANT]
+> **本仓库保留为旧版。后续更新请使用 [a-share-mainline-os](https://github.com/Taosheng777/a-share-mainline-os)。**
+> 新版支持 Claude Code / Codex，围绕主线研究、复盘与载体筛选组织工作，并提供连续研究记录、可选影子对照、配置检查和安全升级/回滚。
+> [五分钟上手](https://github.com/Taosheng777/a-share-mainline-os/blob/main/docs/五分钟上手.md) · [连续研究与影子对照](https://github.com/Taosheng777/a-share-mainline-os/blob/main/docs/研究运行层.md)
+>
+> 迁移前备份自己的技能目录。新版使用独立配置和自己的 vault；保留现有个人笔记、凭据和定制技能，按新版说明安装，不要覆盖原目录。下文的四技能与安装说明属于历史版本。
+
 一套精选的四个Claude Code技能，用于中国A股市场研究：免费获取市场数据、自然语言选股、双层分析以及盘后例行操作。文档以中文为主。仅作为研究工具使用——不构成投资建议。
 
 A curated set of four Claude Code skills for China A-share market research: free-source market data fetching, natural-language stock screening, two-tier analysis, and a post-market routine. Docs are Chinese-first. Research tooling only — **not investment advice**.
